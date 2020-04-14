@@ -13,7 +13,7 @@ from traceback import print_tb
 from PDFlib.PDFlib import *
 
 # This is where the data files are. Adjust as necessary.
-searchpath = "../data/"
+searchpath = "./data/"
 imagefile = "nesrin.jpg"
 outfilename = "starter_basic.pdf"
 

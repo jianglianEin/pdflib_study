@@ -7,7 +7,7 @@
 # Required data: SVG graphics
 
 
-searchpath = "../data"
+searchpath = "./data"
 outfile = "starter_svg.pdf"
 
 graphicsfile = "PDFlib-logo.svg"

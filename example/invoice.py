@@ -133,7 +133,7 @@ def create_header(p):
 
 
 # This is where font/image/PDF input files live. Adjust as necessary. 
-searchpath = "../data"
+searchpath = "./data"
 
 closingtext = \
 "Terms of payment: <fillcolor={rgb 1 0 0}>30 days net. " \

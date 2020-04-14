@@ -10,7 +10,7 @@ from PDFlib.PDFlib import *
 imagefile = "nesrin.jpg"
 
 # This is where font/image/PDF input files live. Adjust as necessary.
-searchpath = "../data"
+searchpath = "./data"
 
 
 p = PDFlib()

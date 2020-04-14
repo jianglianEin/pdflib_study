@@ -19,7 +19,7 @@
 #
 
 
-searchpath = "../data"
+searchpath = "./data"
 outfile = "starter_color.pdf"
 
 y = 800

@@ -71,7 +71,7 @@ try:
     #Open the input PDF */
     indoc = p.open_pdi_document(pdffile, "")
     if indoc == -1:
-      print "Error: " + p.get_errmsg()
+      print("Error: " + p.get_errmsg())
       next
 
     endpage = p.pcos_get_number(indoc, "length:pages")

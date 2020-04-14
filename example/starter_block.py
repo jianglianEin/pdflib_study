@@ -18,7 +18,7 @@ def printf(format, *args):
     sys.stdout.write(format % args)
     
 # This is where the data files are. Adjust as necessary.
-searchpath = "../data"
+searchpath = "./data"
 outfile = "starter_block.pdf"
 infile = "block_template.pdf"
 imagefile = "new.jpg"

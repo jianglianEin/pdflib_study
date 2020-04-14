@@ -9,7 +9,7 @@ from PDFlib.PDFlib import *
 
 # create a new PDFlib object
 p = PDFlib()
-searchpath = "../data"
+searchpath = "./data"
 
 try:
     # This means we must check return values of load_font() etc.

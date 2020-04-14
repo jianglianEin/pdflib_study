@@ -15,7 +15,7 @@ def printf(format, *args):
     sys.stdout.write(format % args)
 
 # This is where the data files are. Adjust as necessary.
-searchpath = "../data"
+searchpath = "./data"
 pdfinput = "PLOP-datasheet.pdf"
 docoptlist = "requiredmode=minimum"
 

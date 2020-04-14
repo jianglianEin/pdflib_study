@@ -12,7 +12,7 @@ infile = "boilerplate.pdf"
 # This is where font/image/PDF input files live. Adjust as necessary.
 # Note that this directory must also contain the font files.
 
-searchpath = "../data"
+searchpath = "./data"
 
 data_name = [
  "name",
